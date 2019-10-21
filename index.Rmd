@@ -1,5 +1,5 @@
 ---
-title: "Clinical trial shows alternate-day fasting a safe alternative to caloric restriction"
+title: "RELATIONSHIP BETWEEN DIET AND OBESITY"
 site: distill::distill_website
 listing: posts
 ---
