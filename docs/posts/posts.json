@@ -1,20 +1,17 @@
 [
   {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
+    "title": "Article 1 : CLINICAL TRIAL SHOWS ALTERNATE-DAY FASTING A SAFE ALTERNATIVE TO CALORIC RESTRICTION",
     "description": {},
     "author": [
       {
-        "name": "Nicolas Devilez",
+        "name": "Slaven Stekovic, al",
         "url": {}
       }
     ],
-    "date": "2019-09-18",
-    "categories": [
-      "elephant",
-      "track"
-    ],
+    "date": "2019-10-21",
+    "categories": [],
     "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-15T23:49:35+02:00"
+    "last_modified": "2019-10-21T15:21:30+02:00"
   }
 ]

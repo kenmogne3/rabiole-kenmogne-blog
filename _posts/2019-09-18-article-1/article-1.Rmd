@@ -1,11 +1,8 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
+title: "Article 1 : CLINICAL TRIAL SHOWS ALTERNATE-DAY FASTING A SAFE ALTERNATIVE TO CALORIC RESTRICTION"
 author:
-  - name: Nicolas Devilez
-date: 09-18-2019
-categories:
-  - elephant
-  - track
+  - name: kenmogne momo
+date: 10-21-2019
 preview: image/where-s-my-elephant.jpg
 output:
   distill::distill_article:
@@ -17,25 +14,29 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-elephant.jpg)
+## Name of the Magazine + Source [URL]:
 
+Science daily, science news, Journal Reference https://www.sciencedaily.com/releases/2019/08/190827111051.htm
+ 
 ## Vocabulary 
 
-| Words from the text | Synonym/explanation in English |
-| ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+|  Words from the text                | Synonym / explanation in English                                                                                                                                        |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| fasting diets                       | alternating fasting and normal feeding periods                                                                                                                          |
+| alternate-day fasting (ADF)         | Alternate day(s) fasting is a form of complete fasting that alternates a day(s) of normal nutrition for a day of fasting.                                               |
+| physiological and molecular effects | effects related to the functioning of the organism and molecular interactions involved                                                                                  |
+| slimming diet                       | consisting of reducing the caloric intake usually ingested, while eating enough or not at all, so that undernutrition occurs without reaching the stage of malnutrition |
 
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Researchers                  | (Slaven Stekovic, al)                        |
+| Published in?                | (August 27, 2019)                                                       |
+| General topic?               |  (ADF is a promising experimental method because it allows the reduction of calories but much remains to be done to perfect it)                      |
+| Procedure/what was examined? | (two groups of people were selected: one group was alternated for 36 hours and another group had already started to alternate and observed the results) |
+| Conclusions/discovery?       |  (The researchers have succeeded in showing that ADF is effective in normal people but it remains to be experimented in obese people)      |
+| Remaining questions?         | (what about this experience in obese people and what would be the consequences for those suffering from viral attacks) |
 
 
 <https://www.scientificamerican.com/article/wheres-my-elephant-high-tech-collars-track-wildlife-in-real-time1/?redirect=1>
