@@ -1,5 +1,5 @@
 ---
-title: "Everything you need to know about elephants"
+title: "Clinical trial shows alternate-day fasting a safe alternative to caloric restriction"
 site: distill::distill_website
 listing: posts
 ---

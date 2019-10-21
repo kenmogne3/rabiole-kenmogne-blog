@@ -1,9 +1,9 @@
 ---
-title: "Article 1 : CLINICAL TRIAL SHOWS ALTERNATE-DAY FASTING A SAFE ALTERNATIVE TO CALORIC RESTRICTION"
+title: "Article 1 : Clinical Trial Shows Alternate-Day Fasting A Safe Alternative To Caloric Restriction"
 author:
-  - name: kenmogne momo
+  - name: kenmogne momo rabiole
 date: 10-21-2019
-preview: image/where-s-my-elephant.jpg
+preview: https://www.earth.com/news/alternate-day-fasting/
 output:
   distill::distill_article:
     self_contained: false
