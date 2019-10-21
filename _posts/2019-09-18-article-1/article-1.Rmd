@@ -3,7 +3,8 @@ title: "Article 1 : Clinical Trial Shows Alternate-Day Fasting A Safe Alternativ
 author:
   - name: kenmogne momo rabiole
 date: 10-21-2019
-preview: https://www.earth.com/news/alternate-day-fasting/
+preview:: 
+! [alt text](https://www.earth.com/news/alternate-day-fasting/)
 output:
   distill::distill_article:
     self_contained: false
