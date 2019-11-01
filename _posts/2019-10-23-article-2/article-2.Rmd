@@ -30,15 +30,10 @@ Science daily, science news, UT Southwestern Medical Center https://www.scienced
 
 ## Analysis table 
 
-|                                           |                                                          |
+|       Researchers                         |           Dr. Lora Hooper and her researchers         |
 | ------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Researchers                               | (Dr. Lora Hooper and her research)                  |
 | Published in                              | (September 27, 2019)                                    |
-
 | General topic                             | (commensal microbes that program the circadian rhythms of an organism would promote the absorption of nutrients in general and fats in particular by activating a protein called histone deacetylase 3 (HDAC3), which can lead to obesity) |
-
 | Procedure/what was examined               | (study of the interaction of HDAC3 enzymes, histone modifications and gene expression control by comparing normal mice loaded with bacteria with germ-free mice)       |
-
 | Conclusions/discovery                     | (HDAC3 attaches to the molecular clock of cells to ensure that fat absorption is maximized when mammals are awake and eating)                |
-
 | Remaining questions                       | (will this rat study have the same results in humans?)  
