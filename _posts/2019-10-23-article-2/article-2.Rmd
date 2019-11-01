@@ -1,5 +1,5 @@
 ---
-title: "article 2 : Molecule links weight gain to gut bacteria"
+title: "article 2 : Molecule Links Weight Gain To Gut Bacteria"
 author:
   - name: kenmogne momo rabiole
 date: 11-01-2019
@@ -7,6 +7,8 @@ preview:: https://www.sciencedaily.com/releases/2019/09/190927135200.htm
 output:
   distill::distill_article:
     self_contained: false
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
@@ -16,21 +18,21 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Name Of The Magazine + Source [URL]: 
 
 Science daily, science news, UT Southwestern Medical Center https://www.sciencedaily.com/releases/2019/09/190927135200.htm
-
-##  Vocabulary 
+ 
+## Vocabulary 
 
 |  Words from the text                      | Synonym / explanation in English                                                                                                                                  |
-|                                           |                                                                                                                                                                                                                                |
-| Commensal bacteria                        | Gut bacteria                                                 |
-
+| ------------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Commensal bacteria                        | Gut bacteria                                                                                                                                                      |
 | circadian rhythms                         | self-sustaining daily rhythm of activity/sleep alternation, body temperature, heart rate, metabolism and secretion of many hormones                          |
+| protein                                   | macromolecules resulting from the assembly of several amino acids having a very important role in the constitution and functioning of the cells of a living organism                                                                                              |
 
-| protein                                   | macromolecules resulting from the assembly of several amino acids having a very important role in the constitution and functioning of the cells of a living organism                                       |
 
 ## Analysis table 
 
-|                                           |                                                         |
-| Researchers                               | Dr. Lora Hooper and her research                        |
+|                                           |                                                          |
+| ------------------------------------------|----------------------------------------------------------|
+| Researchers                               | Dr. Lora Hooper and her research                  |
 
 | Published in                              | 	September 27, 2019                                    |
 
