@@ -4,11 +4,9 @@ author:
   - name: kenmogne momo rabiole
 date: 11-01-2019
 preview:: https://www.sciencedaily.com/releases/2019/09/190927135200.htm 
-  output:
+output:
   distill::distill_article:
     self_contained: false
----
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
