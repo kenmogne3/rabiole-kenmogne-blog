@@ -1,12 +1,10 @@
 ---
-title: "article-2"
-description: |
-  A short description of the post.
+title: "article 2 : Molecule links weight gain to gut bacteria"
 author:
   - name: kenmogne momo rabiole
-    url: {}
-date: 10-23-2019
-output:
+date: 11-01-2019
+preview:: 
+  output:
   distill::distill_article:
     self_contained: false
 ---
@@ -15,7 +13,33 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2vqj.png/800px-2vqj.png)
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+## Name Of The Magazine + Source [URL]: 
 
+Science daily, science news, UT Southwestern Medical Center https://www.sciencedaily.com/releases/2019/09/190927135200.htm
+
+##  Vocabulary 
+
+|  Words from the text                      | Synonym / explanation in English                                                                                                                                  |
+|                                           |                                                                                                                                                                                                                                |
+| Commensal bacteria                        | Gut bacteria                                                 |
+
+| circadian rhythms                         | self-sustaining daily rhythm of activity/sleep alternation, body temperature, heart rate, metabolism and secretion of many hormones                          |
+
+| protein                                   | macromolecules resulting from the assembly of several amino acids having a very important role in the constitution and functioning of the cells of a living organism                                       |
+
+## Analysis table 
+
+|                                           |                                                         |
+| Researchers                               | Dr. Lora Hooper and her research                        |
+
+| Published in                              | 	September 27, 2019                                    |
+
+| General topic                             | commensal microbes that program the circadian rhythms of an organism would promote the absorption of nutrients in general and fats in particular by activating a protein called histone deacetylase 3 (HDAC3), which can lead to obesity.                              |
+
+| Procedure/what was examined               | study of the interaction of HDAC3 enzymes, histone modifications and gene expression control by comparing normal mice loaded with bacteria with germ-free mice.                                             |
+
+| Conclusions/discovery                     | HDAC3 attaches to the molecular clock of cells to ensure that fat absorption is maximized when mammals are awake and eating                            |
+
+| Remaining questions                       | will this rat study have the same results in humans?                                                             |
