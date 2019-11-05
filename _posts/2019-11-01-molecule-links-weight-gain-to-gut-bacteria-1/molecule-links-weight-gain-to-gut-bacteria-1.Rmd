@@ -4,11 +4,12 @@ description: |
   A short description of the post.
 author:
   - name: kenmogne momo rabiole
-    url: {https://www.sciencedaily.com/releases/2019/09/190927135200.htm}
+    url: "https://www.sciencedaily.com/releases/2019/09/190927135200.htm"
 date: 11-01-2019
 output:
   distill::distill_article:
     self_contained: false
+draft: true
 ---
 
 ```{r setup, include=FALSE}

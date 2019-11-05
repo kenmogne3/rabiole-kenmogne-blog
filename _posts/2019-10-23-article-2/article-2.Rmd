@@ -1,13 +1,13 @@
 ---
-title: "article 2 : Molecule Links Weight Gain To Gut Bacteria"
+title: "Article 2 : Molecule Links Weight Gain To Gut Bacteria"
 author:
   - name: kenmogne momo rabiole
 date: 11-01-2019
-preview:: https://www.sciencedaily.com/releases/2019/09/190927135200.htm 
+preview: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2vqj.png/800px-2vqj.png" 
 output:
   distill::distill_article:
     self_contained: false
-
+---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2vqj.png/800px-2vqj.png)
 
