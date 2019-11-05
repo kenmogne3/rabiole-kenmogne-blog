@@ -9,10 +9,6 @@ output:
     self_contained: false
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2vqj.png/800px-2vqj.png)
 
 ## Name Of The Magazine + Source [URL]: 
