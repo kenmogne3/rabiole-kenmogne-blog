@@ -33,3 +33,4 @@ Science daily, science news, UT Southwestern Medical Center https://www.scienced
 | Procedure/what was examined               | (study of the interaction of HDAC3 enzymes, histone modifications and gene expression control by comparing normal mice loaded with bacteria with germ-free mice)       |
 | Conclusions/discovery                     | (HDAC3 attaches to the molecular clock of cells to ensure that fat absorption is maximized when mammals are awake and eating)                |
 | Remaining questions                       | (will this rat study have the same results in humans?)  
+---
