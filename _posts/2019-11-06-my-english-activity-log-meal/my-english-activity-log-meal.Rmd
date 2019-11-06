@@ -1,0 +1,22 @@
+---
+title: "My English Activity Log : M.E.A.L."
+author:
+  - name: kenmogne momo rabiole
+date: 11-06-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+* Oct. 14th: I downloaded lyrics training but this day I didn't play 
+* Oct. 03th: I watched CRAZY PRINSSESS's three seasons at my aunt's house 
+* Oct. 06th: 
+     + I surf on English Center
+     + I played lyrictrainning on a music of the wanted: walks like rihanna
+     + I downloaded BBC News
+     
+---
