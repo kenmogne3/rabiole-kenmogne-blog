@@ -1,0 +1,47 @@
+---
+title: "Article_3:SHIPMENT TRACKING FOR 'FAT PARCELS' IN THE BODY"
+description: |
+  A short description of the post.
+  "Fat packages that researchers have coupled to alkyl groups (acting as markers) and sent to liver cells of mice to monitor the evolution of these packages during fat metabolism"
+author:
+  - name: kenmogne momo rabiole
+date: 11-17-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](https://scx2.b-cdn.net/gfx/news/2019/1-shipmenttrac.jpg)
+
+## Name Of The Magazine + Source [URL]: 
+
+Science daily, science news
+https://www.sciencedaily.com/releases/2019/10/191014111728.htm
+ 
+## Vocabulary 
+
+|  Words from the text                      | Synonym / explanation in English                                                                                                                                  |
+| ------------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Shipment tracking                         |        Control of the itinerary of a parcel                                                                                                                                               |
+| fat parcels                               |        Fat sent to the specific destination                                                                                                                                                                                   |
+| fat metabolism                            |         Anabolism and fat catabolism                                                                                      |
+
+
+## Analysis table 
+
+|       Researchers                         |           Klaus Wunderling and Philipp Leyendecker and his team colleagues         |
+| ------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Published in                              | October 14, 2019                                    |
+| General topic                             |   Fat packages that researchers have coupled to alkyl groups (acting as markers) and sent to liver cells of mice to monitor the evolution of these packages during fat metabolism        |
+| Procedure/what was examined               |     +They added fatty acids to the liver cells of the mice, which were marked with an additional triple bond, a so-called alkyne group + the metabolic products bound to special so-called reporter molecules. +In a further step, the compounds collided with gas molecules while their weight was being measured in the mass spectrometer, causing them to decompose into specific substances on which the markings finally became visible
+      |
+      
+| Conclusions/discovery                     |   unlike the old markers (fluorescent and deuterium compounds) these new markers allow a stronger signal which facilitates the tracking of fat packages and will help to understand in detail the normal metabolic pathway and pathological deviations to limit the side effects related to the consumption of drugs to fight obesity               |
+| ------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Remaining questions                       |  what will be the results in humans?  
+---
+
