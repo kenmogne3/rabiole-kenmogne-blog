@@ -1,5 +1,8 @@
 ---
 title: "Article 1 : Clinical Trial Shows Alternate-Day Fasting A Safe Alternative To Caloric Restriction"
+description: |
+  A short description of the post.
+  "ADF is a promising experimental method because it allows the reduction of calories but much remains to be done to perfect it"
 author:
   - name: kenmogne momo rabiole
 date: 10-21-2019

@@ -6,7 +6,7 @@ description: |
 author:
   - name: kenmogne momo rabiole
 date: 11-17-2019
-preview:: https://scx2.b-cdn.net/gfx/news/2019/1-shipmenttrac.jpg
+preview:: "https://scx2.b-cdn.net/gfx/news/2019/1-shipmenttrac.jpg"
 output:
   distill::distill_article:
     self_contained: false

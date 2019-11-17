@@ -12,7 +12,7 @@
     "date": "2019-11-17",
     "categories": [],
     "preview": "https://scx2.b-cdn.net/gfx/news/2019/1-shipmenttrac.jpg",
-    "last_modified": "2019-11-17T23:59:09+01:00"
+    "last_modified": "2019-11-18T00:16:24+01:00"
   },
   {
     "path": "posts/2019-11-06-my-english-activity-log-meal/",
@@ -47,7 +47,7 @@
   {
     "path": "posts/2019-09-18-article-1/",
     "title": "Article 1 : Clinical Trial Shows Alternate-Day Fasting A Safe Alternative To Caloric Restriction",
-    "description": {},
+    "description": "A short description of the post.\n\"ADF is a promising experimental method because it allows the reduction of calories but much remains to be done to perfect it\"",
     "author": [
       {
         "name": "kenmogne momo rabiole",
@@ -57,6 +57,6 @@
     "date": "2019-10-21",
     "categories": [],
     "preview": "https://cff2.earth.com/uploads/2019/08/27123840/Alternate-day-fasting-is-a-safe-alternative-to-caloric-restriction-study-finds-730x410.jpg",
-    "last_modified": "2019-11-01T12:54:18+01:00"
+    "last_modified": "2019-11-18T00:31:11+01:00"
   }
 ]
