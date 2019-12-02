@@ -1,8 +1,7 @@
 ---
 title: "article-4 GUT-BRAIN CONNECTION HELPS EXPLAIN HOW OVEREATING LEADS TO OBESITY"
 description: |
-  researchers wanted to understand the interactions that explain weight gain leading to obesity following a high-fat diet
-  A short description of the post.
+  researchers wanted to understand the interactions that explain weight gain leading to obesity following a high-fat diet.
 author:
   - name: kenmogne momo rabiole
 date: 12-02-2019
