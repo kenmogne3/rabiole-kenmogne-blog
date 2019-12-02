@@ -1,0 +1,45 @@
+---
+title: "article-4 GUT-BRAIN CONNECTION HELPS EXPLAIN HOW OVEREATING LEADS TO OBESITY"
+description: |
+  researchers wanted to understand the interactions that explain weight gain leading to obesity following a high-fat diet
+  A short description of the post.
+author:
+  - name: kenmogne momo rabiole
+date: 12-02-2019
+preview:: "https://ivpmeducation.com/wp-content/uploads/2019/08/Gut-brain-connection.jpg"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](https://ivpmeducation.com/wp-content/uploads/2019/08/Gut-brain-connection.jpg)
+
+## Name Of The Magazine + Source [URL]: 
+
+Science daily, science news
+https://www.sciencedaily.com/releases/2019/08/190812160533.htm
+ 
+## Vocabulary 
+
+|  Words from the text                      | Synonym / explanation in English                                                                                                                                  |
+| ------------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|         GIP                         |        one of the incretin hormones produced in the gut in response to eating and known for their ability to influence the body's energy management                                                                                                                                               |
+| leptin                              |        satiety hormone secreting by brain                                                                                                       |
+
+
+## Analysis table 
+
+|       Researchers                         |           Dr Makoto Fukuda and al         |
+| ------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Published in                              | August 12, 2019                                    |
+| General topic                             |   study of the interaction between the GIT molecule and leptin: interaction that would promote obesity in the event of overeating in mice        |
+| Procedure/what was examined               |     confirmation that GIT binds to brain cells evaluation of the effect of GIP receptor blockade in obese and thin mice 
+
+      |
+      
+| Conclusions/discovery                     |   a high-fat diet promotes obesity through the action of GIP, which inhibits the action of leptin (a satiety hormone)               |
+| ------------------------------------------|-------------------------------------------------------------------------------------------------------|
