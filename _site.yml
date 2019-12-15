@@ -12,6 +12,8 @@ navbar:
 base_url: http://kenmogne3.github.io/rabiole-kenmogne-blog
 collections:
     posts:
-      disqus: rabiole-blog-2
+      disqus: 
+        shotname: "rabiole-blog"
+        hidden: false
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
