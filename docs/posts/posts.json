@@ -1,18 +1,33 @@
 [
   {
-    "path": "posts/2019-12-16-article-5/",
-    "title": "article-5 Today's obesity epidemic may have been caused by childhood sugar intake decades ago",
-    "description": "A short description of the post. throughout this article researchers from the University of TENNESSEE have conducted a study on the timeliness of the time lag between the increase in sugar consumption in childhood and the increase in current obesity rates",
+    "path": "posts/2020-02-16-article-6/",
+    "title": "article-6 Study Finds Dopamine, Biological Clock Link To Snacking, Overeating And Obesity",
+    "description": "\"Experiments have been done on mice and researchers have found that the brain's pleasure centre that secretes dopamine and the brain's biological clock are linked, and that overeating disrupts normal feeding schedules\".",
     "author": [
       {
         "name": "kenmogne momo rabiole",
         "url": ""
       }
     ],
+    "date": "2020-02-16",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-02-19T12:37:18+01:00"
+  },
+  {
+    "path": "posts/2019-12-16-article-5/",
+    "title": "article-5 Today's obesity epidemic may have been caused by childhood sugar intake decades ago",
+    "description": "A short description of the post. throughout this article researchers from the University of TENNESSEE have conducted a study on the timeliness of the time lag between the increase in sugar consumption in childhood and the increase in current obesity rates",
+    "author": [
+      {
+        "name": "kenmogne momo rabiole",
+        "url": {}
+      }
+    ],
     "date": "2019-12-16",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-02-15T18:15:54+01:00"
+    "last_modified": "2020-02-19T12:36:56+01:00"
   },
   {
     "path": "posts/2019-12-02-article-4/",
@@ -27,7 +42,7 @@
     "date": "2019-12-02",
     "categories": [],
     "preview": "https://ivpmeducation.com/wp-content/uploads/2019/08/Gut-brain-connection.jpg",
-    "last_modified": "2019-12-02T06:36:03+01:00"
+    "last_modified": "2020-02-19T12:37:39+01:00"
   },
   {
     "path": "posts/2019-11-17-article-3/",
@@ -57,7 +72,7 @@
     "date": "2019-11-06",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-06T08:27:31+01:00"
+    "last_modified": "2020-02-19T12:37:50+01:00"
   },
   {
     "path": "posts/2019-10-23-article-2/",

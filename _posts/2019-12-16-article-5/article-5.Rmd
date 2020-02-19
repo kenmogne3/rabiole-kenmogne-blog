@@ -4,7 +4,6 @@ description: |
   A short description of the post. throughout this article researchers from the University of TENNESSEE have conducted a study on the timeliness of the time lag between the increase in sugar consumption in childhood and the increase in current obesity rates
 author:
   - name: kenmogne momo rabiole
-    url: ""
 date: 12-16-2019
 output:
   distill::distill_article:
@@ -38,6 +37,7 @@ Science daily, science news, Journal Reference https://www.sciencedaily.com/rele
 comparison of these obesity rates with annual sugar consumption since 1970 using median per capita rates published by the US Department of Agriculture
  |
 | Conclusions/discovery?       |  Knowing that in the United States sugar consumption (between the end of 1990 and 2016) has decreased but not the obesity rate, it can be concluded that the diet in childhood would influence the obesity rate of the current population    |
+| Conclusions/discovery?       |  Knowing that in the United States sugar consumption (between the end of 1990 and 2016) has decreased but not the obesity rate, it can be concluded that the diet in childhood would influence the obesity rate of the current population      |
 
 
 

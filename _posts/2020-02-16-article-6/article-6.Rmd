@@ -1,0 +1,77 @@
+---
+title: "article-6 Study Finds Dopamine, Biological Clock Link To Snacking, Overeating And Obesity"
+description: |
+  "Experiments have been done on mice and researchers have found that the brain's pleasure centre that secretes dopamine and the brain's biological clock are linked, and that overeating disrupts normal feeding schedules".
+author:
+  - name: kenmogne momo rabiole
+    url: ''
+date: 02-16-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](https://bebooda.fr/wp-content/uploads/2018/01/Fotolia_30125326_S-640x360.jpg)
+
+![](https://www.sciencedaily.com/images/2020/01/200103111717_1_540x360.jpg)
+
+
+## Name Of The Magazine + Source [URL]: 
+
+Science daily, science news
+https://www.sciencedaily.com/releases/2020/01/200103111717.htm
+ 
+## Vocabulary 
+
+|  Words from the text                      | Synonym / explanation in English                                                                                                                                  |
+| ------------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|         snacking                         |        An item of food eaten betwen a meal                                                                                                                                               |
+| Overeating                               |        Act of eating to excess                                                                                                       |
+|         pleasure                         |        gladness                                                                                                                                              |
+| disrupt                              |        disturb                                                                                                       |
+|         Feeding                         |        Alimentation                                                                                                                                                |
+| schedules                              |        Timetable                                                                                                       |
+|         ever-rising rates                        |        increase                                                                                                                                               |
+| processed foods                              |        processed foodstuff                                                                                                       |
+|         Half                         |        demi                                                                                                                                               |
+| hard-wire                              |        to makes a pattern of behaviour automatic                                                                                                       |
+|         overconsumption                         |        gluttony                                                                                                                                               |
+| readily                              |        easily                                                                                                       |
+|         avaible                         |        usable                                                                                                                                              |
+| mimicke                            |        imitate                                                                                                       |
+|         mice                         |        mouse                                                                                                                                               |
+| rewarding                             |        award                                                                                                       |
+|         seek                         |        look for                                                                                                                                               |
+| meals                             |        Food that is prepered and eaten, usually as a specific time                                                                                                       |
+|         resting                         |        pause                                                                                                                                               |
+| packed                              |        reduced                                                                                                       |
+|         lifetime                         |        The duration of the life of someone or somebody                                                                                                                                               |
+| sheltered                              |        refuge                                                                                                      |
+|         toll                        |        tollbooth                                                                                                                                               |
+| dawn                             |        blade                                                                                                       |
+
+| prior                             |        before                                                                                                       |
+
+| recasts                             |        do aigain                                                                                                       |
+
+| prior                             |        before                                                                                                       |
+
+## Analysis table 
+
+|       Researchers                         |           Ali Güler and his colleagues         |
+| ------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Published in                              | January 3, 2020                                    |
+| General topic                             |   weight gain is due to a chemical molecule dopamine which is produced by the pleasure center of the brain and this one influences the food clocks during snacking which modifies the metabolism, leads to obesity and related diseases.        |
+| Procedure/what was examined               |    Researchers gavaged mice with a normal dopamine cycle with two types of diets, one wild and one with overfeeding, and also gavaged mice called "knockout" mice with an abnormal dopamine cycle.          
+ |
+
+| Conclusions/discovery                     |   pleasure center of the brain and the brain's biological clock are linked, and that high-calorie foods -- which bring pleasure -- disrupt normal feeding schedules, resulting in overconsumption and submitted different diets to mice for 24 hours and calories consumed between meals or odd hours are more quickly stored as fat             |
+| ------------------------------------------|-------------------------------------------------------------------------------------------------------|
+
+
+
+

@@ -18,5 +18,6 @@ knitr::opts_chunk$set(echo = FALSE)
      + I surf on English Center
      + I played lyrictrainning on a music of the wanted: walks like rihanna
      + I downloaded BBC News
-     
+* feb 02th: I watched the vidéo about central vervous sytem anatomy https://www.youtube.com/watch?v=Eo3Dp0h5490
+
 ---
