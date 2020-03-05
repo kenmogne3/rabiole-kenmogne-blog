@@ -18,6 +18,13 @@ knitr::opts_chunk$set(echo = FALSE)
      + I surf on English Center
      + I played lyrictrainning on a music of the wanted: walks like rihanna
      + I downloaded BBC News
-* feb 02th: I watched the vidéo about central vervous sytem anatomy https://www.youtube.com/watch?v=Eo3Dp0h5490
+*02/02/2020: I watched the vidéo about central vervous sytem anatomy https://www.youtube.com/watch?v=Eo3Dp0h5490
+* 24/02/2020 : I watched a video about link about the nuclei cerrebellum https://www.youtube.com/watch?v=A1LhDwLe6YU 
+
+* 04/03/2020 : I watched a video about bode law
+https://www.youtube.com/watch?v=OaWpvNOTf_Q
+
+* 05/02/2020 : I watched a video about difference between angiosperm and gymnosperm 
+https://www.youtube.com/watch?v=xGZNHGY98ZE
 
 ---
