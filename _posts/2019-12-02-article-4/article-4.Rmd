@@ -5,6 +5,7 @@ description: |
 author:
   - name: kenmogne momo rabiole
 date: 12-02-2019
+
 preview:: "https://ivpmeducation.com/wp-content/uploads/2019/08/Gut-brain-connection.jpg"
 output:
   distill::distill_article:
