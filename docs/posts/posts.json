@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-03-05-article-7/",
+    "title": "article-7 A WESTERN DIET RICH IN FAT AND SUGAR MAY LEAD TO INFLAMMATORY SKIN DISEASES SUCH AS PSORIASIS",
+    "description": "\"A study has demontrated that the western diet could be the cause of psoriasis this by the interaction between cholesteramine and biliary acid\"",
+    "author": [
+      {
+        "name": "kenmogne momo rabiole",
+        "url": ""
+      }
+    ],
+    "date": "2020-06-05",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-03-07T07:13:48+01:00"
+  },
+  {
     "path": "posts/2020-02-16-article-6/",
     "title": "article-6 Study Finds Dopamine, Biological Clock Link To Snacking, Overeating And Obesity",
     "description": "\"Experiments have been done on mice and researchers have found that the brain's pleasure centre that secretes dopamine and the brain's biological clock are linked, and that overeating disrupts normal feeding schedules\".",

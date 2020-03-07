@@ -1,21 +1,51 @@
 ---
-title: "article-7"
+title: "article-7 A WESTERN DIET RICH IN FAT AND SUGAR MAY LEAD TO INFLAMMATORY SKIN DISEASES SUCH AS PSORIASIS"
+
 description: |
-  A short description of the post.
+  "A study has demontrated that the western diet could be the cause of psoriasis this by the interaction between cholesteramine and biliary acid"
 author:
   - name: kenmogne momo rabiole
     url: ''
-date: 03-05-2020
+date: 06-05-2020
 output:
   distill::distill_article:
     self_contained: false
+
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+## Name Of The Magazine + Source [URL]: 
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+Science daily, science news, 
+https://www.sciencedaily.com/releases/2020/02/200218161720.htm
+
+## Vocabulary 
+
+|  Words from the text                      | Synonym / explanation in English                                                                                                                                  |
+| ------------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|         Western diet                         |        occidental diet                                                                                                                                               |
+| scales red patches                              |       edema                                                                                                      |
+|         Itchy                         |        A constant teasing desire  or want                                                                                                                                               |
+| worsening                               |        aggravation                                                                                                       |
+|         ear swelling                         |       ear protuberant                                                                                                                                               |
+| waistline                             |        Line around the body at the waist                                                                                                      |
+|         chair of dermatology                       |        President of dermatology
+|
+
+
+## Analysis table 
+
+|       Researchers                         |          Hwang and his colleagues         |
+| ------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Published in                              | febuary 16, 2020                                    |
+| General topic                             |   there is a link between bile and intestinal bacteria and skin immunity because an oily diet leads to psorasia..        |
+| Procedure/what was examined               |    mice were subjected to both normal and western diets and observations were made.          
+ |
+
+| Conclusions/discovery                     |   the interaction between the skin, intestinal bacteria and bile are mechanisms that will allow us to understand the relationship between a high-fat diet and inflammation of the skin.             |
+| ------------------------------------------|-------------------------------------------------------------------------------------------------------|
+
 
