@@ -6,6 +6,7 @@ author:
   - name: kenmogne momo rabiole
     url: ''
 date: 02-16-2020
+preview:: "https://bebooda.fr/wp-content/uploads/2018/01/Fotolia_30125326_S-640x360.jpg"
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +16,6 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](https://bebooda.fr/wp-content/uploads/2018/01/Fotolia_30125326_S-640x360.jpg)
 
 ![](https://www.sciencedaily.com/images/2020/01/200103111717_1_540x360.jpg)
 
