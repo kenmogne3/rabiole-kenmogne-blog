@@ -5,7 +5,7 @@ description: |
   "the foie gras disease that was on the screen related to excessive alcohol consumption was found to have a cause other than alcohol."
 author:
   - name: kenmogne momo rabiole
-date: 03-29-2020
+date: 03-30-2020
 preview :: https://static.passeportsante.net/i91517-.jpeg
 output:
   distill::distill_article:
@@ -40,14 +40,9 @@ Science daily, science news, Journal Reference https://www.sciencedaily.com/rele
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | Dr Kushala Abeysekera and researchers                        |
 | Published in?                | January 15, 2020                                                       |
-| General topic?               |  the impact of obesity on the increase in fatty liver disease in young adults :NAFLD                      |
-| Procedure/what was examined? | Study participants were evaluated for NAFLD in adolescence using ultrasound and then invited to a transient elastography evaluation with FibroScan .
-
-The researchers first examined participants who did not report harmful alcohol use. 
-
-and then expanded the study to include all participants, they found that more than 20% of the participants had signs of liver steatosis and one in 40 had already developed fibrosis.
- |
-| Conclusions/discovery?       |  a poor diet leads to obesity, which will increase the risk of liver disease, which can lead to further damage as it is harmful to health. However, if the liver damage has not reached a critical stage, it can be solved by a balanced diet.        |
+| General topic?               |  the impact of obesity on the increase in fatty liver disease in young adults :NAFLD                                                       |
+| Procedure/what was examined? | Study participants were evaluated for NAFLD in adolescence using ultrasound and then invited to a transient elastography evaluation with FibroScan .The researchers first examined participants who did not report harmful alcohol use. And then expanded the study to include all participants, they found that more than 20% of the participants had signs of liver steatosis and one in 40 had already developed fibrosis.              |
+| Conclusions/discovery?       |  a poor diet leads to obesity, which will increase the risk of liver disease, which can lead to further damage as it is harmful to health. However, if the liver damage has not reached a critical stage, it can be solved by a balanced diet.                                  |
 | Remaining questions?         | What is the impact of environment and genetics on these liver diseases?          |
 
 
