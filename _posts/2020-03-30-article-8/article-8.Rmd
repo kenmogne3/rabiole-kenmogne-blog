@@ -5,7 +5,7 @@ description: |
   "the foie gras disease that was on the screen related to excessive alcohol consumption was found to have a cause other than alcohol."
 author:
   - name: kenmogne momo rabiole
-date: 03-30-2020
+date: 03-29-2020
 preview :: https://static.passeportsante.net/i91517-.jpeg
 output:
   distill::distill_article:
