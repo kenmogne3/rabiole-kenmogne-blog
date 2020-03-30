@@ -5,7 +5,7 @@ description: |
   "A study has demontrated that the western diet could be the cause of psoriasis this by the interaction between cholesteramine and biliary acid"
 author:
   - name: kenmogne momo rabiole
-date: 06-03-2020
+date: 03-06-2020
 
 preview:: "https://francepsoriasis.org/wp-content/uploads/2016/05/FRANCE_PSORIASIS_COMPRENDRE_LE-PSORIASIS_QUEST-CE-QUE-LE-PSORIASIS_3-845x321.jpg"
 
