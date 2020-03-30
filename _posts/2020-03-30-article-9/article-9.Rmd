@@ -1,11 +1,11 @@
 ---
-title: "article-9"
+title: "article-9: Molecule found in oranges could reduce obesity and prevent heart disease and diabetes"
 description: |
-  A short description of the post.
+  Nobiletin, a molecule found in oranges and mandarins, could reduce obesity.
 author:
   - name: kenmogne momo rabiole
-    url: {}
 date: 03-30-2020
+preview :: https://www.mlactu.fr/wp-content/uploads/2020/03/Les-flavono%C3%AFdes-contenus-dans-les-oranges-et-les-mandarines-inversent.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +15,32 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+![](https://www.phytochemicals.info/pictures/phytochemicals/nobiletin.gif)
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+## Name of the Magazine + Source [URL]:
 
+Science daily, science news, Journal Reference https://www.sciencedaily.com/releases/2020/03/200303140158.htm
+ 
+## Vocabulary 
+
+|  Words from the text                | Synonym / explanation in English                                                                                                                                        |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| pinpoint                       | Extremely precise                                                                                                                          |
+| handle                 | To manage.                                               |
+| burns                   |                      destroy                                                                                  |
+| huge burden                       |        Heavy load  |
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Professor Murray Huff             |          |
+| Published in?                | March 3, 2020                      |                                 |
+| General topic?               |  a molecule called nobelitine found in oranges and tangerines could reduce obesity and thus reduce the consequences of obesity such as heart disease and diabetes.     
+|
+| Procedure/what was examined? | the researchers fed the mice with a diet high in fat and cholesterol and then gave some of the mice nobilitin and some nothing and observed the results.    
+ |
+| Conclusions/discovery?       |  nobeline would have a positive effect on the reduction of obesity and the resulting metabolic symdromes        |
+| Remaining questions?         | how the obese man will react to the nobiletine  ?          |
