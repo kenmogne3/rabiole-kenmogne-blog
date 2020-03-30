@@ -37,9 +37,6 @@ https://www.sciencedaily.com/releases/2019/08/190812160533.htm
 | ------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | Published in                              | August 12, 2019                                    |
 | General topic                             |   study of the interaction between the GIT molecule and leptin: interaction that would promote obesity in the event of overeating in mice        |
-| Procedure/what was examined               |     confirmation that GIT binds to brain cells evaluation of the effect of GIP receptor blockade in obese and thin mice 
-
-      |
-      
+| Procedure/what was examined               |     confirmation that GIT binds to brain cells evaluation of the effect of GIP receptor blockade in obese and thin mice                                                                              |
 | Conclusions/discovery                     |   a high-fat diet promotes obesity through the action of GIP, which inhibits the action of leptin (a satiety hormone)               |
 | ------------------------------------------|-------------------------------------------------------------------------------------------------------|
