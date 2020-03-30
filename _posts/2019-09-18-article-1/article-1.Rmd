@@ -35,12 +35,12 @@ Science daily, science news, Journal Reference https://www.sciencedaily.com/rele
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (Slaven Stekovic, al)                        |
-| Published in?                | (August 27, 2019)                                                       |
-| General topic?               |  (ADF is a promising experimental method because it allows the reduction of calories but much remains to be done to perfect it)                      |
-| Procedure/what was examined? | (two groups of people were selected: one group was alternated for 36 hours and another group had already started to alternate and observed the results) |
-| Conclusions/discovery?       |  (The researchers have succeeded in showing that ADF is effective in normal people but it remains to be experimented in obese people)      |
-| Remaining questions?         | (what about this experience in obese people and what would be the consequences for those suffering from viral attacks
+| Researchers                  | Slaven Stekovic, al                        |
+| Published in?                | August 27, 2019                                                       |
+| General topic?               |  ADF is a promising experimental method because it allows the reduction of calories but much remains to be done to perfect it                      |
+| Procedure/what was examined? | two groups of people were selected: one group was alternated for 36 hours and another group had already started to alternate and observed the results |
+| Conclusions/discovery?       |  The researchers have succeeded in showing that ADF is effective in normal people but it remains to be experimented in obese people      |
+| Remaining questions?         | what about this experience in obese people and what would be the consequences for those suffering from viral attacks|
 
 
 
