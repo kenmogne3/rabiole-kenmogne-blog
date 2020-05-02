@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-05-02-introduction/",
+    "title": "INTRODUCTION",
+    "description": {},
+    "author": [
+      {
+        "name": "kenmogne momo rabiole",
+        "url": {}
+      }
+    ],
+    "date": "2020-05-02",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-05-02T08:00:56+02:00"
+  },
+  {
     "path": "posts/2020-03-30-article-8/",
     "title": "article-8: OBESITY CRISIS BLAMED FOR A RISE IN FATTY LIVER DISEASE AMONGST YOUNG ADULTS",
     "description": "A short description of the post.\n\"the foie gras disease that was on the screen related to excessive alcohol consumption was found to have a cause other than alcohol.\"",

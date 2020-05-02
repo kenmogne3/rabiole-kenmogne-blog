@@ -4,12 +4,16 @@ author:
   - name: kenmogne momo rabiole
     url: {}
 date: 05-02-2020
-
+output:
+  distill::distill_article:
+    self_contained: false
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+### INTRODUCTION 
 
 Recognized as a chronic disease since 1997, obesity is a global pandemic that affects on average one person in four. This disease is closely linked to diet because despite all the causes that are at its origin, unbalanced diet remains the main cause. To solve the problem of obesity is first of all to understand the direct relationship between diet and this disease through the study of the interactions between food molecules and the molecules of the body, then to understand the mechanisms governing these interactions and finally to find some solutions that can help to fight this disease. Knowing at the base that obesity is mainly caused by an imbalance between the intake and expenditure of calories as other causes at its origin we can cite: behavioral causes (eating habits and behavior), medical causes, causes related to the person (hereditary). Among the behavioural causes, some studies have shown that dopamine, a wellness hormone, promotes snacking in mice that have been previously subjected to a high-calorie diet, other studies show that today's obesity epidemic could have been caused by the consumption of sugar during childhood a decade ago. Still others present an intestine-brain connection that helps explain how overeating leads to obesity, thanks to the GIP (gastric inhibitory polypeptide) molecule that inhibits the leptin located in the brain. Other studies show us the presence of a protein HDAC3 (histone deacetylase 3) which activates the genes involved in fat absorption. Beside the causes, the study of the tracking of fat packages in the body allows us to explain in detail the normal metabolic pathway of fat and pathological deviations. However, it should be noted that obesity has negative consequences for health, such as hypertension, diabetes, cardiovascular diseases, but above all skin inflammation such as psoriasis and liver steatosis, which can lead to liver cyrosis. In view of all these consequences, however, the studies propose solutions such as regular physical activity but above all alternating fasting and also a molecule called nobeteline which would have positive effects on reducing obesity.
 
