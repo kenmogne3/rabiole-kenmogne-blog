@@ -1,0 +1,17 @@
+---
+title: "CONCLUSION"
+author:
+  - name: kenmogne momo rabiole
+    url: {}
+date: 05-02-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### CONCLUSION 
+The realization of the portfolio was very interesting and especially enriching because it allowed to learn: what it is a portfolio, how to realize it, to learn new words and new expressions in English (words and expressions presented in the table of the analysis part), to observe the verbal tenses used during the writing of the articles, the grammatical structures, and especially to be informed on the evolution of the research on the chosen theme which is here the relation between nutrition and obesity.
